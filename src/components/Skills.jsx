@@ -7,7 +7,7 @@ const Skills = () => {
     {
       id: 1,
       name: "HTML 5",
-      image: "/img/habilidades/html.jpg",
+      image: "/img/habilidades/html.webp",
       description: "Lenguaje base de las páginas web, estructurando contenido con etiquetas semánticas.",
       category: "Frontend",
       level: "Avanzado"
@@ -15,7 +15,7 @@ const Skills = () => {
     {
       id: 2,
       name: "CSS",
-      image: "/img/habilidades/css.jpg",
+      image: "/img/habilidades/css.webp",
       description: "Estilos y diseño responsive para interfaces modernas y adaptables.",
       category: "Frontend",
       level: "Avanzado"
@@ -23,7 +23,7 @@ const Skills = () => {
     {
       id: 3,
       name: "JavaScript",
-      image: "/img/habilidades/js.jpg",
+      image: "/img/habilidades/js.webp",
       description: "Interactividad web, manipulación del DOM y desarrollo dinámico.",
       category: "Frontend",
       level: "Avanzado"
@@ -31,7 +31,7 @@ const Skills = () => {
     {
       id: 4,
       name: "React",
-      image: "/img/habilidades/react.png",
+      image: "/img/habilidades/react.webp",
       description: "Biblioteca para interfaces de usuario con componentes reutilizables.",
       category: "Frontend",
       level: "Avanzado"
@@ -39,7 +39,7 @@ const Skills = () => {
     {
       id: 5,
       name: "Spring Boot 3",
-      image: "/img/habilidades/SpringBoot3.png",
+      image: "/img/habilidades/SpringBoot3.webp",
       description: "Framework Java para desarrollo backend con configuración automática.",
       category: "Backend",
       level: "Avanzado"
@@ -47,7 +47,7 @@ const Skills = () => {
     {
       id: 6,
       name: "Java",
-      image: "/img/habilidades/java.png",
+      image: "/img/habilidades/java.webp",
       description: "Lenguaje orientado a objetos para aplicaciones empresariales.",
       category: "Backend",
       level: "Avanzado"
@@ -55,7 +55,7 @@ const Skills = () => {
     {
       id: 7,
       name: "Python",
-      image: "/img/habilidades/python.png",
+      image: "/img/habilidades/python.webp",
       description: "IA, machine learning, automatización y desarrollo web.",
       category: "Data Science",
       level: "Intermedio"
@@ -63,7 +63,7 @@ const Skills = () => {
     {
       id: 8,
       name: "MySQL",
-      image: "/img/habilidades/mysql.png",
+      image: "/img/habilidades/mysql.webp",
       description: "Base de datos relacional para aplicaciones web escalables.",
       category: "Database",
       level: "Avanzado"
@@ -71,7 +71,7 @@ const Skills = () => {
     {
       id: 9,
       name: "MongoDB",
-      image: "/img/habilidades/mongoDb.png",
+      image: "/img/habilidades/mongoDb.webp",
       description: "Base de datos NoSQL para datos no estructurados.",
       category: "Database",
       level: "Avanzado"
@@ -79,7 +79,7 @@ const Skills = () => {
     {
       id: 10,
       name: "Kotlin",
-      image: "/img/habilidades/kotlin.png",
+      image: "/img/habilidades/kotlin.webp",
       description: "Desarrollo Android y backend con sintaxis moderna.",
       category: "Mobile",
       level: "Intermedio"
@@ -87,7 +87,7 @@ const Skills = () => {
     {
       id: 11,
       name: "Arduino",
-      image: "/img/habilidades/arduino.png",
+      image: "/img/habilidades/arduino.webp",
       description: "Proyectos IoT y sistemas embebidos interactivos.",
       category: "IoT",
       level: "Avanzado"
@@ -95,7 +95,7 @@ const Skills = () => {
     {
       id: 12,
       name: "ROS",
-      image: "/img/habilidades/ros.png",
+      image: "/img/habilidades/ros.webp",
       description: "Sistema operativo para desarrollo de aplicaciones robóticas.",
       category: "Robotics",
       level: "Básico"

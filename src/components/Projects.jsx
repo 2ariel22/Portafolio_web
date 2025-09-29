@@ -6,7 +6,7 @@ const Projects = () => {
   const projectData = [
     {
       id: 1,
-      image: "/img/proyectos/Shopping.png",
+      image: "/img/proyectos/Shopping.webp",
       link: "https://dainty-genie-9d1b3d.netlify.app/",
       techClasses: {
         React: "react",
@@ -15,7 +15,7 @@ const Projects = () => {
     },
     {
       id: 2,
-      image: "/img/proyectos/searchMovies.png",
+      image: "/img/proyectos/searchMovies.webp",
       link: "https://heartfelt-daffodil-407834.netlify.app/",
       techClasses: {
         React: "react",
@@ -24,7 +24,7 @@ const Projects = () => {
     },
     {
       id: 3,
-      image: "/img/proyectos/ApiRest.png",
+      image: "/img/proyectos/ApiRest.webp",
       link: "https://github.com/2ariel22/ApiRestClinica",
       techClasses: {
         JAVA: "java",
@@ -34,7 +34,7 @@ const Projects = () => {
     },
     {
       id: 4,
-      image: "/img/proyectos/Encriptador.png",
+      image: "/img/proyectos/Encriptador.webp",
       link: "https://github.com/2ariel22/challenge-encriptador",
       techClasses: {
         HTML5: "html",
@@ -44,7 +44,7 @@ const Projects = () => {
     },
     {
       id: 5,
-      image: "/img/proyectos/DetectorSuenio.png",
+      image: "/img/proyectos/DetectorSuenio.webp",
       link: "https://github.com/2ariel22/DetectorSuenio",
       techClasses: {
         PYTHON: "python"
@@ -52,7 +52,7 @@ const Projects = () => {
     },
     {
       id: 6,
-      image: "/img/proyectos/ReconocimientoManometro.png",
+      image: "/img/proyectos/ReconocimientoManometro.webp",
       link: "https://github.com/2ariel22/ReconocimientoManometro.git",
       techClasses: {
         PYTHON: "python"
@@ -60,7 +60,7 @@ const Projects = () => {
     },
     {
       id: 7,
-      image: "/img/proyectos/simuladorBio.jpeg",
+      image: "/img/proyectos/simuladorBio.webp",
       link: "https://github.com/2ariel22/Simulador-De-Se-alesBio",
       techClasses: {
         PYTHON: "python",
@@ -69,7 +69,7 @@ const Projects = () => {
     },
     {
       id: 8,
-      image: "/img/proyectos/dobot.jpeg",
+      image: "/img/proyectos/dobot.webp",
       link: "https://github.com/2ariel22/ControlDobotWithPython",
       techClasses: {
         PYTHON: "python"
@@ -77,7 +77,7 @@ const Projects = () => {
     },
     {
       id: 9,
-      image: "/img/proyectos/conversor de monedas.png",
+      image: "/img/proyectos/conversor-de-monedas.webp",
       link: "https://github.com/2ariel22/Conversor_Monedas?tab=readme-ov-file",
       techClasses: {
         JAVA: "java"
@@ -85,7 +85,7 @@ const Projects = () => {
     },
     {
       id: 10,
-      image: "/img/proyectos/AsistenteVirtual.png",
+      image: "/img/proyectos/AsistenteVirtual.webp",
       link: "https://github.com/2ariel22/AsistenVirtual",
       techClasses: {
         PYTHON: "python"
@@ -93,7 +93,7 @@ const Projects = () => {
     },
     {
       id: 11,
-      image: "/img/proyectos/inventariado.jpg",
+      image: "/img/proyectos/inventariado.webp",
       link: "https://github.com/2ariel22/Inventariado",
       techClasses: {
         JAVA: "java",
@@ -103,7 +103,7 @@ const Projects = () => {
     },
     {
       id: 12,
-      image: "/img/proyectos/Peces.jpg",
+      image: "/img/proyectos/Peces.webp",
       link: "https://github.com/2ariel22/Detecfish",
       techClasses: {
         PYTHON: "python"
