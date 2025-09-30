@@ -108,6 +108,14 @@ const Projects = () => {
       techClasses: {
         PYTHON: "python"
       }
+    },
+    {
+      id: 13,
+      image: "/img/proyectos/bobina.webp",
+      link: "https://github.com/2ariel22/ControlBobinaTeslaWithBle",
+      techClasses: {
+        ARDUINO: "arduino"
+      }
     }
   ]
 

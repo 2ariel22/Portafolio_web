@@ -107,6 +107,11 @@ Me encanta conocer personas y aprender de ellas. Además, disfruto mucho la mús
             id: 12,
             title: "Detecfish - Detección de peces",
             technologies: ["PYTHON"]
+          },
+          {
+            id: 13,
+            title: "Control Bobina Tesla por Bluetooth",
+            technologies: ["ARDUINO"]
           }
         ]
       },
@@ -216,6 +221,11 @@ I love meeting people and learning from them. I also enjoy music and reading ver
             id: 12,
             title: "Detecfish - Fish detection",
             technologies: ["PYTHON"]
+          },
+          {
+            id: 13,
+            title: "Tesla Coil Control via Bluetooth",
+            technologies: ["ARDUINO"]
           }
         ]
       },
